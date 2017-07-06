@@ -26,3 +26,5 @@ Author: Olof Mogren
 o código c-rnn-gan só roda no tensorflow 0.12.1
 pip install --ignore-installed --upgrade 'tensorflow==0.12.1'
 
+
+pip install python-midi
